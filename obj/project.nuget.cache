@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MF/OotMZl6cQCKpSJRxVHXA0NVBJQa6jPyFLMJG0OVfzMSX/LuibaFi/2dyxZqEh0ykJBz5PY3cpoJcrijmDfg==",
+  "dgSpecHash": "oUXgdYYTphVtC74i6VUkdOUNVxg1YLXe8TwEfKyUaWODSNeqqie+5qcQ1HSRgwlx0N8AKjNRjefGI8O2IEhAYg==",
   "success": true,
-  "projectFilePath": "/home/jelastic/ROOT/ROOT.csproj",
+  "projectFilePath": "/home/jelastic/APP/ROOT/ROOT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
