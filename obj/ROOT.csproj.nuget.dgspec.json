@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/jelastic/APP/ROOT/ROOT.csproj",
         "projectName": "ROOT",
         "projectPath": "/home/jelastic/APP/ROOT/ROOT.csproj",
-        "packagesPath": "/home/jelastic/.nuget/packages/",
+        "packagesPath": "/home/jelastic/APP/ROOT/.nuget/packages/",
         "outputPath": "/home/jelastic/APP/ROOT/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jelastic/.nuget/NuGet/NuGet.Config"
+          "/home/jelastic/APP/ROOT/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
